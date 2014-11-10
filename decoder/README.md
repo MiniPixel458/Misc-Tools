@@ -1,5 +1,5 @@
 ##Brainfuck Decoder
-==========
+====
 ###Use : 
 > php brainfuck.php file
 ####Or
